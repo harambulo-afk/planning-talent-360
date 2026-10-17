@@ -1,0 +1,3709 @@
+{
+  "version": "1.0",
+  "familias": [
+    {
+      "id": "DIR",
+      "nombre": "Dirección y gobierno corporativo",
+      "unidad": "Dirección"
+    },
+    {
+      "id": "ELE",
+      "nombre": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering"
+    },
+    {
+      "id": "BES",
+      "nombre": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution"
+    },
+    {
+      "id": "REG",
+      "nombre": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory"
+    },
+    {
+      "id": "PRO",
+      "nombre": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering"
+    },
+    {
+      "id": "TEC",
+      "nombre": "Tecnología, software, datos e IA",
+      "unidad": "Solution"
+    },
+    {
+      "id": "ACA",
+      "nombre": "Academy, formación y marketing",
+      "unidad": "Academy"
+    },
+    {
+      "id": "COM",
+      "nombre": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial"
+    },
+    {
+      "id": "ADM",
+      "nombre": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo"
+    }
+  ],
+  "niveles": [
+    "Practicante",
+    "Asistente",
+    "Junior",
+    "Especialista",
+    "Senior",
+    "Coordinador",
+    "Jefe",
+    "Gerencia",
+    "Dirección",
+    "Consultor"
+  ],
+  "perfiles": [
+    {
+      "id": "P4E-0001",
+      "nombre": "Gerente general",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Gerencia",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0002",
+      "nombre": "Gerente general adjunto",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Gerencia",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0003",
+      "nombre": "Director ejecutivo",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Dirección",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0004",
+      "nombre": "Presidente ejecutivo",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Dirección",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0005",
+      "nombre": "Director de estrategia",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Dirección",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0006",
+      "nombre": "Director técnico",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Asistente",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0007",
+      "nombre": "Director comercial",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Dirección",
+      "skills": [
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0008",
+      "nombre": "Director de operaciones",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Dirección",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0009",
+      "nombre": "Director financiero",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Dirección",
+      "skills": [
+        "Finanzas",
+        "Gestión administrativa"
+      ]
+    },
+    {
+      "id": "P4E-0010",
+      "nombre": "Director de proyectos",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Dirección",
+      "skills": [
+        "Gestión de proyectos",
+        "Cronogramas"
+      ]
+    },
+    {
+      "id": "P4E-0011",
+      "nombre": "Director de innovación",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Dirección",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0012",
+      "nombre": "Director de tecnología",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Dirección",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0013",
+      "nombre": "Director de talento humano",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Dirección",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0014",
+      "nombre": "Director de expansión internacional",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Dirección",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0015",
+      "nombre": "Gerente técnico",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Asistente",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0016",
+      "nombre": "Gerente de ingeniería",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Gerencia",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0017",
+      "nombre": "Gerente de operaciones",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Gerencia",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0018",
+      "nombre": "Gerente de proyectos",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Gerencia",
+      "skills": [
+        "Gestión de proyectos",
+        "Cronogramas"
+      ]
+    },
+    {
+      "id": "P4E-0019",
+      "nombre": "Gerente comercial",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Gerencia",
+      "skills": [
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0020",
+      "nombre": "Gerente de administración y finanzas",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Gerencia",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0021",
+      "nombre": "Gerente de planificación estratégica",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Gerencia",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0022",
+      "nombre": "Gerente de transformación digital",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Gerencia",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0023",
+      "nombre": "Gerente de calidad",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Gerencia",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0024",
+      "nombre": "Gerente de riesgos",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Gerencia",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0025",
+      "nombre": "Gerente de sostenibilidad",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Gerencia",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0026",
+      "nombre": "Gerente de unidad de negocio",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Gerencia",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0027",
+      "nombre": "Gerente de país",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Gerencia",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0028",
+      "nombre": "Miembro de directorio",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Dirección",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0029",
+      "nombre": "Asesor estratégico",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Consultor",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0030",
+      "nombre": "Asesor de directorio",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Dirección",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0031",
+      "nombre": "Oficial de cumplimiento",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Especialista",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0032",
+      "nombre": "Chief of Staff",
+      "familia": "Dirección y gobierno corporativo",
+      "unidad": "Dirección",
+      "nivel": "Especialista",
+      "skills": [
+        "Dirección y gobierno corporativo"
+      ]
+    },
+    {
+      "id": "P4E-0033",
+      "nombre": "Director de ingeniería eléctrica",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Dirección",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0034",
+      "nombre": "Jefe de ingeniería eléctrica",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Jefe",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0035",
+      "nombre": "Líder de estudios eléctricos",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Jefe",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0036",
+      "nombre": "Especialista en DIgSILENT PowerFactory",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "DIgSILENT PowerFactory",
+        "DPL"
+      ]
+    },
+    {
+      "id": "P4E-0037",
+      "nombre": "Especialista en ETAP",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "ETAP"
+      ]
+    },
+    {
+      "id": "P4E-0038",
+      "nombre": "Especialista en PSS/E",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0039",
+      "nombre": "Especialista en PSCAD",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "EMT",
+        "Simulación electromagnética"
+      ]
+    },
+    {
+      "id": "P4E-0040",
+      "nombre": "Especialista en EMTP-RV",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "EMT",
+        "Simulación electromagnética"
+      ]
+    },
+    {
+      "id": "P4E-0041",
+      "nombre": "Especialista en RTDS y HIL",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0042",
+      "nombre": "Especialista en flujo de carga",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0043",
+      "nombre": "Especialista en cortocircuito",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0044",
+      "nombre": "Especialista en contingencias N-1",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0045",
+      "nombre": "Especialista en estabilidad transitoria",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0046",
+      "nombre": "Especialista en estabilidad de pequeña señal",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0047",
+      "nombre": "Especialista en estabilidad de tensión",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0048",
+      "nombre": "Especialista en modelamiento dinámico",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Modelamiento",
+        "Análisis numérico"
+      ]
+    },
+    {
+      "id": "P4E-0049",
+      "nombre": "Especialista en coordinación de protecciones",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Protecciones eléctricas",
+        "Relés"
+      ]
+    },
+    {
+      "id": "P4E-0050",
+      "nombre": "Especialista en relés SEL",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Protecciones eléctricas",
+        "Relés"
+      ]
+    },
+    {
+      "id": "P4E-0051",
+      "nombre": "Especialista en relés ABB",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Protecciones eléctricas",
+        "Relés"
+      ]
+    },
+    {
+      "id": "P4E-0052",
+      "nombre": "Especialista en calidad de energía",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0053",
+      "nombre": "Especialista en armónicos",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0054",
+      "nombre": "Especialista en flicker y desbalance",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0055",
+      "nombre": "Especialista en transitorios electromagnéticos",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "EMT",
+        "Simulación electromagnética"
+      ]
+    },
+    {
+      "id": "P4E-0056",
+      "nombre": "Especialista en aislamiento eléctrico",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0057",
+      "nombre": "Especialista en sobretensiones",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0058",
+      "nombre": "Especialista en puesta a tierra",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0059",
+      "nombre": "Especialista en arco eléctrico",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0060",
+      "nombre": "Especialista en estudios de operatividad EO",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "PR-20",
+        "Estudios de conexión"
+      ]
+    },
+    {
+      "id": "P4E-0061",
+      "nombre": "Especialista en estudios de preoperatividad EPO",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "PR-20",
+        "Estudios de conexión"
+      ]
+    },
+    {
+      "id": "P4E-0062",
+      "nombre": "Especialista en rechazo de carga",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "COES",
+        "Procedimientos técnicos"
+      ]
+    },
+    {
+      "id": "P4E-0063",
+      "nombre": "Especialista en cargas esenciales",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "COES",
+        "Procedimientos técnicos"
+      ]
+    },
+    {
+      "id": "P4E-0064",
+      "nombre": "Especialista en procedimientos de maniobra COES",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "COES",
+        "Procedimientos técnicos"
+      ]
+    },
+    {
+      "id": "P4E-0065",
+      "nombre": "Especialista en diseño de subestaciones",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Sistemas de transmisión",
+        "Normativa técnica"
+      ]
+    },
+    {
+      "id": "P4E-0066",
+      "nombre": "Especialista en líneas de transmisión",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Sistemas de transmisión",
+        "Normativa técnica"
+      ]
+    },
+    {
+      "id": "P4E-0067",
+      "nombre": "Especialista en transformadores de potencia",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0068",
+      "nombre": "Especialista en ingeniería de distribución MT/BT",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0069",
+      "nombre": "Especialista en sistemas de control y SCADA",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0070",
+      "nombre": "Especialista en telecomunicaciones IEC 61850",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0071",
+      "nombre": "Especialista en automatización de subestaciones",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Sistemas de transmisión",
+        "Normativa técnica"
+      ]
+    },
+    {
+      "id": "P4E-0072",
+      "nombre": "Especialista en ingeniería primaria",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0073",
+      "nombre": "Especialista en ingeniería secundaria",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0074",
+      "nombre": "Especialista en pruebas FAT y SAT",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0075",
+      "nombre": "Ingeniero de comisionamiento eléctrico",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0076",
+      "nombre": "Ingeniero de puesta en servicio",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0077",
+      "nombre": "Ingeniero de proyectos eléctricos",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Gestión de proyectos",
+        "Cronogramas"
+      ]
+    },
+    {
+      "id": "P4E-0078",
+      "nombre": "Ingeniero de control de calidad eléctrica",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0079",
+      "nombre": "Ingeniero de diseño CAD",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0080",
+      "nombre": "Modelador BIM eléctrico",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Modelamiento",
+        "Análisis numérico"
+      ]
+    },
+    {
+      "id": "P4E-0081",
+      "nombre": "Dibujante técnico CAD",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Asistente",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0082",
+      "nombre": "Técnico de pruebas de relés",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Asistente",
+      "skills": [
+        "Protecciones eléctricas",
+        "Relés"
+      ]
+    },
+    {
+      "id": "P4E-0083",
+      "nombre": "Técnico electricista",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Asistente",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0084",
+      "nombre": "Analista de estudios eléctricos",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Junior",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0085",
+      "nombre": "Asistente de ingeniería eléctrica",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Asistente",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0086",
+      "nombre": "Practicante de ingeniería eléctrica",
+      "familia": "Ingeniería eléctrica y sistemas de potencia",
+      "unidad": "Engineering",
+      "nivel": "Practicante",
+      "skills": [
+        "Ingeniería eléctrica y sistemas de potencia"
+      ]
+    },
+    {
+      "id": "P4E-0087",
+      "nombre": "Gerente de soluciones energéticas",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Gerencia",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0088",
+      "nombre": "Líder de almacenamiento energético",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Jefe",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0089",
+      "nombre": "Especialista en sistemas BESS",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "BESS",
+        "Integración a la red"
+      ]
+    },
+    {
+      "id": "P4E-0090",
+      "nombre": "Especialista en dimensionamiento BESS",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "BESS",
+        "Integración a la red"
+      ]
+    },
+    {
+      "id": "P4E-0091",
+      "nombre": "Especialista en grid-forming",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "BESS",
+        "Integración a la red"
+      ]
+    },
+    {
+      "id": "P4E-0092",
+      "nombre": "Especialista en grid-following",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "BESS",
+        "Integración a la red"
+      ]
+    },
+    {
+      "id": "P4E-0093",
+      "nombre": "Especialista en inercia sintética",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0094",
+      "nombre": "Especialista en control EMS",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0095",
+      "nombre": "Especialista en BMS",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "BESS",
+        "Integración a la red"
+      ]
+    },
+    {
+      "id": "P4E-0096",
+      "nombre": "Especialista en PCS e inversores",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "BESS",
+        "Integración a la red"
+      ]
+    },
+    {
+      "id": "P4E-0097",
+      "nombre": "Especialista en integración BESS a la red",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "BESS",
+        "Integración a la red"
+      ]
+    },
+    {
+      "id": "P4E-0098",
+      "nombre": "Especialista en seguridad de baterías",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0099",
+      "nombre": "Especialista en normativa NFPA 855",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0100",
+      "nombre": "Especialista en degradación y vida útil BESS",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "BESS",
+        "Integración a la red"
+      ]
+    },
+    {
+      "id": "P4E-0101",
+      "nombre": "Especialista en baterías de litio",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0102",
+      "nombre": "Especialista en baterías de flujo",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0103",
+      "nombre": "Ingeniero de comisionamiento BESS",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "BESS",
+        "Integración a la red"
+      ]
+    },
+    {
+      "id": "P4E-0104",
+      "nombre": "Técnico de baterías y BMS",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Asistente",
+      "skills": [
+        "BESS",
+        "Integración a la red"
+      ]
+    },
+    {
+      "id": "P4E-0105",
+      "nombre": "Especialista en O&M BESS",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "BESS",
+        "Integración a la red"
+      ]
+    },
+    {
+      "id": "P4E-0106",
+      "nombre": "Especialista en sistemas solares FV",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energía fotovoltaica",
+        "PVsyst"
+      ]
+    },
+    {
+      "id": "P4E-0107",
+      "nombre": "Especialista en PVSyst",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energía fotovoltaica",
+        "PVsyst"
+      ]
+    },
+    {
+      "id": "P4E-0108",
+      "nombre": "Diseñador de plantas fotovoltaicas",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energía fotovoltaica",
+        "PVsyst"
+      ]
+    },
+    {
+      "id": "P4E-0109",
+      "nombre": "Especialista en inversores fotovoltaicos",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energía fotovoltaica",
+        "PVsyst"
+      ]
+    },
+    {
+      "id": "P4E-0110",
+      "nombre": "Ingeniero de O&M fotovoltaico",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energía fotovoltaica",
+        "PVsyst"
+      ]
+    },
+    {
+      "id": "P4E-0111",
+      "nombre": "Especialista en energía eólica",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "PR-20",
+        "Estudios de conexión"
+      ]
+    },
+    {
+      "id": "P4E-0112",
+      "nombre": "Especialista en modelos de aerogeneradores",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Modelamiento",
+        "Análisis numérico"
+      ]
+    },
+    {
+      "id": "P4E-0113",
+      "nombre": "Especialista en generación hidroeléctrica",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0114",
+      "nombre": "Especialista en centrales térmicas",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0115",
+      "nombre": "Especialista en microredes y sistemas híbridos",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Microredes",
+        "Control de sistemas híbridos"
+      ]
+    },
+    {
+      "id": "P4E-0116",
+      "nombre": "Especialista en control maestro de microrredes",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0117",
+      "nombre": "Especialista en generación diésel",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0118",
+      "nombre": "Especialista en hidrógeno verde",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0119",
+      "nombre": "Especialista en eficiencia energética",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0120",
+      "nombre": "Auditor energético",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0121",
+      "nombre": "Especialista en generación distribuida",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0122",
+      "nombre": "Especialista en autoconsumo y zero-export",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0123",
+      "nombre": "Especialista en contratos EPC renovables",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Contratos",
+        "Gestión contractual"
+      ]
+    },
+    {
+      "id": "P4E-0124",
+      "nombre": "Analista de mercado BESS",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Junior",
+      "skills": [
+        "BESS",
+        "Integración a la red"
+      ]
+    },
+    {
+      "id": "P4E-0125",
+      "nombre": "Analista de proyectos renovables",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Junior",
+      "skills": [
+        "Gestión de proyectos",
+        "Cronogramas"
+      ]
+    },
+    {
+      "id": "P4E-0126",
+      "nombre": "Practicante de energías renovables",
+      "familia": "Energías renovables, BESS y soluciones",
+      "unidad": "Solution",
+      "nivel": "Practicante",
+      "skills": [
+        "Energías renovables"
+      ]
+    },
+    {
+      "id": "P4E-0127",
+      "nombre": "Gerente de consultoría regulatoria",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Gerencia",
+      "skills": [
+        "Regulación eléctrica",
+        "Normativa peruana"
+      ]
+    },
+    {
+      "id": "P4E-0128",
+      "nombre": "Director de regulación energética",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Dirección",
+      "skills": [
+        "Regulación eléctrica",
+        "Normativa peruana"
+      ]
+    },
+    {
+      "id": "P4E-0129",
+      "nombre": "Consultor en regulación eléctrica",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Consultor",
+      "skills": [
+        "Regulación eléctrica",
+        "Normativa peruana"
+      ]
+    },
+    {
+      "id": "P4E-0130",
+      "nombre": "Especialista en tarifas eléctricas",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación eléctrica",
+        "Normativa peruana"
+      ]
+    },
+    {
+      "id": "P4E-0131",
+      "nombre": "Especialista en COES",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "COES",
+        "Procedimientos técnicos"
+      ]
+    },
+    {
+      "id": "P4E-0132",
+      "nombre": "Especialista en OSINERGMIN",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación eléctrica",
+        "Normativa peruana"
+      ]
+    },
+    {
+      "id": "P4E-0133",
+      "nombre": "Especialista en normativa MINEM",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0134",
+      "nombre": "Especialista en PR-20 y PR-21",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "PR-20",
+        "Estudios de conexión"
+      ]
+    },
+    {
+      "id": "P4E-0135",
+      "nombre": "Especialista en PR-12 y PR-16",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0136",
+      "nombre": "Especialista en PR-01 y PR-08",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0137",
+      "nombre": "Especialista en servicios complementarios",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0138",
+      "nombre": "Especialista en regulación de frecuencia",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación eléctrica",
+        "Normativa peruana"
+      ]
+    },
+    {
+      "id": "P4E-0139",
+      "nombre": "Especialista en mercados eléctricos",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0140",
+      "nombre": "Especialista en costos marginales",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Mercado eléctrico",
+        "Despacho económico"
+      ]
+    },
+    {
+      "id": "P4E-0141",
+      "nombre": "Especialista en despacho económico",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Mercado eléctrico",
+        "Despacho económico"
+      ]
+    },
+    {
+      "id": "P4E-0142",
+      "nombre": "Especialista en SDDP",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Mercado eléctrico",
+        "Despacho económico"
+      ]
+    },
+    {
+      "id": "P4E-0143",
+      "nombre": "Especialista en PERSEO",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "PR-20",
+        "Estudios de conexión",
+        "Mercado eléctrico",
+        "Despacho económico",
+        "Marketing digital",
+        "Contenidos"
+      ]
+    },
+    {
+      "id": "P4E-0144",
+      "nombre": "Especialista en YUPANA",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Mercado eléctrico",
+        "Despacho económico"
+      ]
+    },
+    {
+      "id": "P4E-0145",
+      "nombre": "Especialista en planificación de transmisión",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Sistemas de transmisión",
+        "Normativa técnica"
+      ]
+    },
+    {
+      "id": "P4E-0146",
+      "nombre": "Especialista en Plan de Transmisión COES",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "COES",
+        "Procedimientos técnicos",
+        "Sistemas de transmisión",
+        "Normativa técnica"
+      ]
+    },
+    {
+      "id": "P4E-0147",
+      "nombre": "Especialista en planificación de generación",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0148",
+      "nombre": "Especialista en planificación de distribución",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0149",
+      "nombre": "Especialista en planificación de expansión",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0150",
+      "nombre": "Especialista en SST y SCT",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0151",
+      "nombre": "Especialista en SST tarifado",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación eléctrica",
+        "Normativa peruana"
+      ]
+    },
+    {
+      "id": "P4E-0152",
+      "nombre": "Especialista en estudios tarifarios",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación eléctrica",
+        "Normativa peruana"
+      ]
+    },
+    {
+      "id": "P4E-0153",
+      "nombre": "Especialista en acceso y conexión",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0154",
+      "nombre": "Especialista en concesiones eléctricas",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0155",
+      "nombre": "Especialista en contratos PPA",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Contratos",
+        "Gestión contractual"
+      ]
+    },
+    {
+      "id": "P4E-0156",
+      "nombre": "Especialista en mercado spot",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0157",
+      "nombre": "Especialista en subastas eléctricas",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0158",
+      "nombre": "Especialista en inversiones de transmisión",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Sistemas de transmisión",
+        "Normativa técnica"
+      ]
+    },
+    {
+      "id": "P4E-0159",
+      "nombre": "Especialista en regulación del gas natural",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación eléctrica",
+        "Normativa peruana"
+      ]
+    },
+    {
+      "id": "P4E-0160",
+      "nombre": "Especialista en modelamiento económico energético",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Modelamiento",
+        "Análisis numérico"
+      ]
+    },
+    {
+      "id": "P4E-0161",
+      "nombre": "Economista de la energía",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0162",
+      "nombre": "Analista regulatorio",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Junior",
+      "skills": [
+        "Regulación eléctrica",
+        "Normativa peruana"
+      ]
+    },
+    {
+      "id": "P4E-0163",
+      "nombre": "Analista de mercado eléctrico",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Junior",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0164",
+      "nombre": "Consultor de política energética",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Consultor",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0165",
+      "nombre": "Especialista en transición energética",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0166",
+      "nombre": "Especialista en huella de carbono",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación"
+      ]
+    },
+    {
+      "id": "P4E-0167",
+      "nombre": "Practicante de regulación energética",
+      "familia": "Regulación, mercado y planificación energética",
+      "unidad": "Advisory",
+      "nivel": "Practicante",
+      "skills": [
+        "Regulación eléctrica",
+        "Normativa peruana"
+      ]
+    },
+    {
+      "id": "P4E-0168",
+      "nombre": "Director de proyectos EPC",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Dirección",
+      "skills": [
+        "Gestión de proyectos",
+        "Cronogramas"
+      ]
+    },
+    {
+      "id": "P4E-0169",
+      "nombre": "Gerente de proyecto EPC",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Gerencia",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0170",
+      "nombre": "Project manager",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Gestión de proyectos",
+        "Cronogramas"
+      ]
+    },
+    {
+      "id": "P4E-0171",
+      "nombre": "Coordinador de proyectos",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Coordinador",
+      "skills": [
+        "Gestión de proyectos",
+        "Cronogramas"
+      ]
+    },
+    {
+      "id": "P4E-0172",
+      "nombre": "Especialista PMO",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0173",
+      "nombre": "Project controller",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Gestión de proyectos",
+        "Cronogramas"
+      ]
+    },
+    {
+      "id": "P4E-0174",
+      "nombre": "Especialista en planificación Primavera P6",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Gestión de proyectos",
+        "Cronogramas"
+      ]
+    },
+    {
+      "id": "P4E-0175",
+      "nombre": "Especialista en MS Project",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0176",
+      "nombre": "Ingeniero residente",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0177",
+      "nombre": "Supervisor eléctrico",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Jefe",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0178",
+      "nombre": "Supervisor electromecánico",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Jefe",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0179",
+      "nombre": "Supervisor de obras civiles",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Jefe",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0180",
+      "nombre": "Supervisor de montaje",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Jefe",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0181",
+      "nombre": "Supervisor de comisionamiento",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Jefe",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0182",
+      "nombre": "Inspector de calidad QA/QC",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0183",
+      "nombre": "Especialista en SSOMA",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0184",
+      "nombre": "Especialista en seguridad eléctrica",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0185",
+      "nombre": "Especialista ambiental",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0186",
+      "nombre": "Especialista social y permisos",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0187",
+      "nombre": "Especialista en servidumbres",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0188",
+      "nombre": "Especialista en contratos FIDIC",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Contratos",
+        "Gestión contractual"
+      ]
+    },
+    {
+      "id": "P4E-0189",
+      "nombre": "Especialista en administración contractual",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0190",
+      "nombre": "Especialista en gestión de cambios",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0191",
+      "nombre": "Especialista en reclamaciones contractuales",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0192",
+      "nombre": "Especialista en metrados",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0193",
+      "nombre": "Especialista en presupuestos y costos",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0194",
+      "nombre": "Especialista CAPEX y OPEX",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0195",
+      "nombre": "Especialista en valorizaciones",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0196",
+      "nombre": "Especialista en control documental",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0197",
+      "nombre": "Especialista de riesgos de proyecto",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0198",
+      "nombre": "Topógrafo",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0199",
+      "nombre": "Especialista GIS/QGIS",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0200",
+      "nombre": "Ingeniero civil de subestaciones",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Sistemas de transmisión",
+        "Normativa técnica"
+      ]
+    },
+    {
+      "id": "P4E-0201",
+      "nombre": "Ingeniero estructural",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0202",
+      "nombre": "Ingeniero geotécnico",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Asistente",
+      "skills": [
+        "PR-20",
+        "Estudios de conexión"
+      ]
+    },
+    {
+      "id": "P4E-0203",
+      "nombre": "Ingeniero mecánico",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0204",
+      "nombre": "Ingeniero instrumentista",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0205",
+      "nombre": "Técnico de instrumentación",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Asistente",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0206",
+      "nombre": "Inspector NDT",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Especialista",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0207",
+      "nombre": "Coordinador logístico de obra",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Coordinador",
+      "skills": [
+        "Proyectos"
+      ]
+    },
+    {
+      "id": "P4E-0208",
+      "nombre": "Asistente de proyectos",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Asistente",
+      "skills": [
+        "Gestión de proyectos",
+        "Cronogramas"
+      ]
+    },
+    {
+      "id": "P4E-0209",
+      "nombre": "Practicante de ingeniería de proyectos",
+      "familia": "Proyectos, construcción y supervisión",
+      "unidad": "Engineering",
+      "nivel": "Practicante",
+      "skills": [
+        "Gestión de proyectos",
+        "Cronogramas"
+      ]
+    },
+    {
+      "id": "P4E-0210",
+      "nombre": "CTO",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Gerencia",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0211",
+      "nombre": "Arquitecto de software",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0212",
+      "nombre": "Desarrollador frontend",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0213",
+      "nombre": "Desarrollador backend",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0214",
+      "nombre": "Desarrollador full-stack",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0215",
+      "nombre": "Desarrollador móvil Android",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0216",
+      "nombre": "Desarrollador móvil iOS",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0217",
+      "nombre": "Desarrollador React Native",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0218",
+      "nombre": "Desarrollador Python",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Python",
+        "Análisis de datos"
+      ]
+    },
+    {
+      "id": "P4E-0219",
+      "nombre": "Desarrollador de scripts DPL",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0220",
+      "nombre": "Ingeniero de modelos de optimización",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Modelamiento",
+        "Análisis numérico"
+      ]
+    },
+    {
+      "id": "P4E-0221",
+      "nombre": "Ingeniero de datos",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Python",
+        "Análisis de datos"
+      ]
+    },
+    {
+      "id": "P4E-0222",
+      "nombre": "Analista de datos",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Junior",
+      "skills": [
+        "Python",
+        "Análisis de datos"
+      ]
+    },
+    {
+      "id": "P4E-0223",
+      "nombre": "Especialista Power BI",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0224",
+      "nombre": "Data scientist",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0225",
+      "nombre": "Ingeniero de machine learning",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Python",
+        "Análisis de datos"
+      ]
+    },
+    {
+      "id": "P4E-0226",
+      "nombre": "Ingeniero de IA aplicada",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Python",
+        "Análisis de datos"
+      ]
+    },
+    {
+      "id": "P4E-0227",
+      "nombre": "Especialista en agentes de IA",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0228",
+      "nombre": "Ingeniero de automatización RPA",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0229",
+      "nombre": "Ingeniero cloud",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0230",
+      "nombre": "Especialista Firebase y Google Cloud",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0231",
+      "nombre": "Especialista DevOps",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0232",
+      "nombre": "Especialista en GitHub Actions",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0233",
+      "nombre": "Especialista en ciberseguridad",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0234",
+      "nombre": "Especialista en seguridad cloud",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0235",
+      "nombre": "Diseñador UX/UI",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0236",
+      "nombre": "Diseñador de productos digitales",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0237",
+      "nombre": "Ingeniero QA de software",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0238",
+      "nombre": "Analista de testing",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Junior",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0239",
+      "nombre": "Administrador de bases de datos",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Python",
+        "Análisis de datos"
+      ]
+    },
+    {
+      "id": "P4E-0240",
+      "nombre": "Product manager",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0241",
+      "nombre": "Product owner",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0242",
+      "nombre": "Scrum master",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0243",
+      "nombre": "Especialista de soporte TI",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0244",
+      "nombre": "Administrador de Google Workspace",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0245",
+      "nombre": "Desarrollador de APIs",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Especialista",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0246",
+      "nombre": "Practicante de desarrollo software",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Practicante",
+      "skills": [
+        "Tecnología"
+      ]
+    },
+    {
+      "id": "P4E-0247",
+      "nombre": "Practicante de analítica de datos",
+      "familia": "Tecnología, software, datos e IA",
+      "unidad": "Solution",
+      "nivel": "Practicante",
+      "skills": [
+        "Python",
+        "Análisis de datos"
+      ]
+    },
+    {
+      "id": "P4E-0248",
+      "nombre": "Director de Academy",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Dirección",
+      "skills": [
+        "Formación",
+        "Diseño educativo"
+      ]
+    },
+    {
+      "id": "P4E-0249",
+      "nombre": "Gerente académico",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Gerencia",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0250",
+      "nombre": "Coordinador académico",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Coordinador",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0251",
+      "nombre": "Director pedagógico",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Dirección",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0252",
+      "nombre": "Instructor de sistemas eléctricos",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Formación",
+        "Diseño educativo"
+      ]
+    },
+    {
+      "id": "P4E-0253",
+      "nombre": "Instructor de DIgSILENT",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "DIgSILENT PowerFactory",
+        "DPL",
+        "Formación",
+        "Diseño educativo"
+      ]
+    },
+    {
+      "id": "P4E-0254",
+      "nombre": "Instructor de protecciones eléctricas",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Protecciones eléctricas",
+        "Relés",
+        "Formación",
+        "Diseño educativo"
+      ]
+    },
+    {
+      "id": "P4E-0255",
+      "nombre": "Instructor de renovables y BESS",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "BESS",
+        "Integración a la red",
+        "Formación",
+        "Diseño educativo"
+      ]
+    },
+    {
+      "id": "P4E-0256",
+      "nombre": "Instructor de regulación eléctrica",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Regulación eléctrica",
+        "Normativa peruana",
+        "Formación",
+        "Diseño educativo"
+      ]
+    },
+    {
+      "id": "P4E-0257",
+      "nombre": "Instructor de microredes",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Microredes",
+        "Control de sistemas híbridos",
+        "Formación",
+        "Diseño educativo"
+      ]
+    },
+    {
+      "id": "P4E-0258",
+      "nombre": "Instructor de software ETAP",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "ETAP",
+        "Formación",
+        "Diseño educativo"
+      ]
+    },
+    {
+      "id": "P4E-0259",
+      "nombre": "Instructor de PSCAD",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "EMT",
+        "Simulación electromagnética",
+        "Formación",
+        "Diseño educativo"
+      ]
+    },
+    {
+      "id": "P4E-0260",
+      "nombre": "Instructor de Python energético",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Python",
+        "Análisis de datos",
+        "Formación",
+        "Diseño educativo"
+      ]
+    },
+    {
+      "id": "P4E-0261",
+      "nombre": "Diseñador instruccional",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0262",
+      "nombre": "Especialista en e-learning",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Formación",
+        "Diseño educativo"
+      ]
+    },
+    {
+      "id": "P4E-0263",
+      "nombre": "Productor de cursos",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Formación",
+        "Diseño educativo"
+      ]
+    },
+    {
+      "id": "P4E-0264",
+      "nombre": "Gestor de plataforma LMS",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0265",
+      "nombre": "Coordinador de certificaciones IEEE",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Coordinador",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0266",
+      "nombre": "Coordinador de eventos",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Coordinador",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0267",
+      "nombre": "Community manager",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Marketing digital",
+        "Contenidos"
+      ]
+    },
+    {
+      "id": "P4E-0268",
+      "nombre": "Especialista en marketing digital",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Marketing digital",
+        "Contenidos"
+      ]
+    },
+    {
+      "id": "P4E-0269",
+      "nombre": "Especialista SEO",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "PR-20",
+        "Estudios de conexión",
+        "Marketing digital",
+        "Contenidos"
+      ]
+    },
+    {
+      "id": "P4E-0270",
+      "nombre": "Especialista SEM",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Marketing digital",
+        "Contenidos"
+      ]
+    },
+    {
+      "id": "P4E-0271",
+      "nombre": "Especialista en publicidad Meta Ads",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0272",
+      "nombre": "Creador de contenido técnico",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Asistente",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0273",
+      "nombre": "Guionista de cursos",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Formación",
+        "Diseño educativo"
+      ]
+    },
+    {
+      "id": "P4E-0274",
+      "nombre": "Diseñador gráfico",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0275",
+      "nombre": "Editor audiovisual",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0276",
+      "nombre": "Productor de transmisiones en vivo",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Sistemas de transmisión",
+        "Normativa técnica"
+      ]
+    },
+    {
+      "id": "P4E-0277",
+      "nombre": "Especialista en email marketing",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Marketing digital",
+        "Contenidos"
+      ]
+    },
+    {
+      "id": "P4E-0278",
+      "nombre": "Especialista en automatización comercial",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0279",
+      "nombre": "Especialista en ventas de cursos",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Formación",
+        "Diseño educativo",
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0280",
+      "nombre": "Ejecutivo de atención al estudiante",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0281",
+      "nombre": "Tutor académico",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0282",
+      "nombre": "Coordinador de comunidades profesionales",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Coordinador",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0283",
+      "nombre": "Especialista en merchandising",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0284",
+      "nombre": "Fotógrafo corporativo",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Especialista",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0285",
+      "nombre": "Practicante de marketing",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Practicante",
+      "skills": [
+        "Marketing digital",
+        "Contenidos"
+      ]
+    },
+    {
+      "id": "P4E-0286",
+      "nombre": "Practicante de diseño gráfico",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Practicante",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0287",
+      "nombre": "Practicante académico",
+      "familia": "Academy, formación y marketing",
+      "unidad": "Academy",
+      "nivel": "Practicante",
+      "skills": [
+        "Academy"
+      ]
+    },
+    {
+      "id": "P4E-0288",
+      "nombre": "Director comercial",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Dirección",
+      "skills": [
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0289",
+      "nombre": "Gerente comercial B2B",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Gerencia",
+      "skills": [
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0290",
+      "nombre": "Business development manager",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Comercial"
+      ]
+    },
+    {
+      "id": "P4E-0291",
+      "nombre": "Key account manager",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Comercial"
+      ]
+    },
+    {
+      "id": "P4E-0292",
+      "nombre": "Ejecutivo de cuentas corporativas",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Comercial"
+      ]
+    },
+    {
+      "id": "P4E-0293",
+      "nombre": "Ejecutivo de ventas B2B",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0294",
+      "nombre": "Ingeniero de ventas técnicas",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0295",
+      "nombre": "Especialista en licitaciones públicas",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0296",
+      "nombre": "Especialista en licitaciones privadas",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0297",
+      "nombre": "Especialista en ofertas técnico-económicas",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Asistente",
+      "skills": [
+        "Comercial"
+      ]
+    },
+    {
+      "id": "P4E-0298",
+      "nombre": "Especialista en costos de propuestas",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0299",
+      "nombre": "Analista de mercado",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Junior",
+      "skills": [
+        "Comercial"
+      ]
+    },
+    {
+      "id": "P4E-0300",
+      "nombre": "Especialista CRM",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Comercial"
+      ]
+    },
+    {
+      "id": "P4E-0301",
+      "nombre": "Sales operations analyst",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Comercial"
+      ]
+    },
+    {
+      "id": "P4E-0302",
+      "nombre": "Especialista en alianzas estratégicas",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Comercial"
+      ]
+    },
+    {
+      "id": "P4E-0303",
+      "nombre": "Especialista en desarrollo internacional",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Comercial"
+      ]
+    },
+    {
+      "id": "P4E-0304",
+      "nombre": "Representante comercial en Chile",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0305",
+      "nombre": "Representante comercial en Colombia",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0306",
+      "nombre": "Representante comercial en Brasil",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0307",
+      "nombre": "Representante comercial en Paraguay",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0308",
+      "nombre": "Representante comercial en Centroamérica",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0309",
+      "nombre": "Especialista en relaciones institucionales",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Comercial"
+      ]
+    },
+    {
+      "id": "P4E-0310",
+      "nombre": "Especialista en desarrollo de proveedores",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Comercial"
+      ]
+    },
+    {
+      "id": "P4E-0311",
+      "nombre": "Ejecutivo de preventa",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Comercial"
+      ]
+    },
+    {
+      "id": "P4E-0312",
+      "nombre": "Especialista en atención al cliente",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Comercial"
+      ]
+    },
+    {
+      "id": "P4E-0313",
+      "nombre": "Especialista en customer success",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Comercial"
+      ]
+    },
+    {
+      "id": "P4E-0314",
+      "nombre": "Coordinador de propuestas",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Coordinador",
+      "skills": [
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0315",
+      "nombre": "Gestor de contratos comerciales",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Especialista",
+      "skills": [
+        "Contratos",
+        "Gestión contractual",
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0316",
+      "nombre": "Practicante comercial",
+      "familia": "Comercial, negocios y expansión internacional",
+      "unidad": "Comercial",
+      "nivel": "Practicante",
+      "skills": [
+        "Ventas consultivas",
+        "Gestión comercial"
+      ]
+    },
+    {
+      "id": "P4E-0317",
+      "nombre": "Gerente de administración y finanzas",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Gerencia",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0318",
+      "nombre": "Controller financiero",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Especialista",
+      "skills": [
+        "Finanzas",
+        "Gestión administrativa"
+      ]
+    },
+    {
+      "id": "P4E-0319",
+      "nombre": "Contador general",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Especialista",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0320",
+      "nombre": "Analista contable",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Junior",
+      "skills": [
+        "Finanzas",
+        "Gestión administrativa"
+      ]
+    },
+    {
+      "id": "P4E-0321",
+      "nombre": "Analista de tesorería",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Junior",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0322",
+      "nombre": "Analista de cobranzas",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Junior",
+      "skills": [
+        "Finanzas",
+        "Gestión administrativa"
+      ]
+    },
+    {
+      "id": "P4E-0323",
+      "nombre": "Analista de facturación",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Junior",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0324",
+      "nombre": "Especialista tributario",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Especialista",
+      "skills": [
+        "Finanzas",
+        "Gestión administrativa"
+      ]
+    },
+    {
+      "id": "P4E-0325",
+      "nombre": "Especialista en detracciones",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Especialista",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0326",
+      "nombre": "Especialista de compras",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Especialista",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0327",
+      "nombre": "Especialista en gestión de proveedores",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Especialista",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0328",
+      "nombre": "Coordinador de logística",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Coordinador",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0329",
+      "nombre": "Administrador de contratos",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Especialista",
+      "skills": [
+        "Contratos",
+        "Gestión contractual"
+      ]
+    },
+    {
+      "id": "P4E-0330",
+      "nombre": "Abogado corporativo",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Especialista",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0331",
+      "nombre": "Abogado laboral",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Especialista",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0332",
+      "nombre": "Especialista en compliance",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Especialista",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0333",
+      "nombre": "Responsable de protección de datos",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Especialista",
+      "skills": [
+        "Protecciones eléctricas",
+        "Relés",
+        "Python",
+        "Análisis de datos"
+      ]
+    },
+    {
+      "id": "P4E-0334",
+      "nombre": "Gerente de recursos humanos",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Gerencia",
+      "skills": [
+        "Formación",
+        "Diseño educativo"
+      ]
+    },
+    {
+      "id": "P4E-0335",
+      "nombre": "Especialista de reclutamiento",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Especialista",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0336",
+      "nombre": "Analista de recursos humanos",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Junior",
+      "skills": [
+        "Formación",
+        "Diseño educativo"
+      ]
+    },
+    {
+      "id": "P4E-0337",
+      "nombre": "Especialista de compensaciones",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Especialista",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0338",
+      "nombre": "Especialista de payroll",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Especialista",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0339",
+      "nombre": "Asistente administrativo",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Asistente",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0340",
+      "nombre": "Asistente de gerencia",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Asistente",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0341",
+      "nombre": "Recepcionista",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Asistente",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0342",
+      "nombre": "Analista financiero",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Junior",
+      "skills": [
+        "Finanzas",
+        "Gestión administrativa"
+      ]
+    },
+    {
+      "id": "P4E-0343",
+      "nombre": "Especialista en planeación financiera",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Especialista",
+      "skills": [
+        "Finanzas",
+        "Gestión administrativa"
+      ]
+    },
+    {
+      "id": "P4E-0344",
+      "nombre": "Coordinador de bienestar laboral",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Coordinador",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0345",
+      "nombre": "Analista de costos de personal",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Junior",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0346",
+      "nombre": "Practicante administrativo",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Practicante",
+      "skills": [
+        "Administración"
+      ]
+    },
+    {
+      "id": "P4E-0347",
+      "nombre": "Practicante contable",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Practicante",
+      "skills": [
+        "Finanzas",
+        "Gestión administrativa"
+      ]
+    },
+    {
+      "id": "P4E-0348",
+      "nombre": "Practicante de recursos humanos",
+      "familia": "Administración, finanzas, legal y soporte",
+      "unidad": "Corporativo",
+      "nivel": "Practicante",
+      "skills": [
+        "Formación",
+        "Diseño educativo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+.qa/
+.env*
+node_modules/
+planning_talent_respaldo_*.json
+planning_talent_profesionales*.csv
+*.log
